@@ -22,5 +22,5 @@ Turns LEDs off between 21:30 and 7:30
 
 ## Images
 
-![Front view of upgraded sensor](https://github.com/35mmHunter/vindriktning/blob/master/img/front.jpg)
-![Rear view of upgraded sensor](https://github.com/35mmHunter/vindriktning/blob/master/img/back.jpg)
+![Front view of upgraded sensor](https://github.com/35mmHunter/ESP32-vindriktning/blob/master/img/front.jpg)
+![Rear view of upgraded sensor](https://github.com/35mmHunter/ESP32-vindriktning/blob/master/img/back.jpg)
